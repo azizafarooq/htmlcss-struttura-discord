@@ -75,7 +75,7 @@
 
 /*Section Three*/
 .section-three{
-    background-color: hsl(0deg 0% 82.75%);
+    background-color: hwb(0 83% 17%);
     display: flex;
     padding: 60px;
     justify-content: center;
@@ -116,3 +116,77 @@
     min-width: 400px;
     min-height: 400px;
 }
+
+/*Section Five*/
+.section-five{
+    background-color: hwb(0 83% 17%);
+    display: flex;
+    padding: 60px;
+    justify-content: center;
+}
+
+.block-five{
+    background-color:hsl(120deg 60.69% 33.92%);
+    border: 1px dashed black;
+    min-width: 1000px;
+    min-height: 700px;
+}
+
+/*Footer Top*/
+.footer-top{
+    background-color:hsl(205.71deg 9.09% 15.1%);
+    display: flex;
+    padding: 60px;
+    justify-content:center;
+    min-height: 500px;
+}
+
+.footer-column-left{
+    background-color:hsl(0deg 78.87% 72.16%);
+    min-height: ;
+    min-width: 300px;
+    border: 1px dashed black;
+ }
+
+.footer-column-right{
+    background-color:hsl(0, 0%, 98%);
+    border: 1px dashed black;
+    display: flex;
+}
+
+.column-one,
+.column-two,
+.column-three,
+.column-four{
+    background-color: hsl(176.71deg 69.52% 41.18%);
+    border: 1px dashed white;
+    min-width: 175px;
+}
+
+/*Footer Bottom*/
+.footer-bottom{
+    background-color: hsl(205.71deg 9.09% 15.1%);
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    border: 1px solid white;
+    min-height: 60px;
+    padding-bottom: 0;
+}
+
+.footer-section{
+    background-color: hsl(159.84deg 100% 74.9%);
+    display: flex;
+    min-width: 1000px;
+    padding: 20px;
+    padding-left: 0;
+    padding-right: 0;
+    justify-content: space-between;
+}
+
+.footer-left,
+.footer-right{
+    background-color: hsl(350.96deg 100% 85.69%);
+    border: 1px dashed black;
+}
+
