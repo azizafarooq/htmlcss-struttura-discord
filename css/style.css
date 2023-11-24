@@ -1,0 +1,37 @@
+/*Reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+/*Header*/
+.header-container{
+    background-color: hsl(194.74deg 53.27% 79.02%);
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    padding: 15px 150px 15px 150px;
+}
+
+.header-left,
+.header-center,
+.header-right{
+    background-color: hsl(42.9deg 74.4% 49.02%);
+    border: 1px dashed black;
+    
+}
+
+.header-left,
+.header-right{
+    min-width: 25%;
+}
+
+.header-center{
+    width: 50%;
+    text-align: center;
+}
+
+.header-right{
+    text-align: end;
+}
