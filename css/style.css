@@ -50,3 +50,69 @@
     min-width: 700px;
     min-height: 300px;
 }
+
+/*Section Two*/
+.section-two{
+    background-color: white;
+    display: flex;
+    padding: 60px;
+    justify-content: center;
+}
+
+.block-blue{
+    background-color: hsl(209.6deg 100% 55.88%);
+    border: 1px dashed black;
+    min-width: 600px;
+    min-height: 400px;
+}
+
+.block-pink{
+    background-color:hsl(349.52deg 100% 87.65%);
+    border: 1px dashed black;
+    min-width: 400px;
+    min-height: 400px;
+}
+
+/*Section Three*/
+.section-three{
+    background-color: hsl(0deg 0% 82.75%);
+    display: flex;
+    padding: 60px;
+    justify-content: center;
+}
+
+.block-blue{
+    background-color: hsl(209.6deg 100% 55.88%);
+    border: 1px dashed black;
+    min-width: 600px;
+    min-height: 400px;
+}
+
+.block-pink{
+    background-color:hsl(349.52deg 100% 87.65%);
+    border: 1px dashed black;
+    min-width: 400px;
+    min-height: 400px;
+}
+
+/*Section Four*/
+.section-four{
+    background-color: white;
+    display: flex;
+    padding: 60px;
+    justify-content: center;
+}
+
+.block-blue{
+    background-color: hsl(209.6deg 100% 55.88%);
+    border: 1px dashed black;
+    min-width: 600px;
+    min-height: 400px;
+}
+
+.block-pink{
+    background-color:hsl(349.52deg 100% 87.65%);
+    border: 1px dashed black;
+    min-width: 400px;
+    min-height: 400px;
+}
